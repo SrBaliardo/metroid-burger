@@ -18,8 +18,8 @@ Inicialmente seria somente para controle de pedidos, entretanto, está sendo ref
 
 ## 🔗 Links
 
-- <a href="https://github.com/SrBaliardo/metroid-burger.git/tree/main/jhabburger-api">Backend</a>
-- <a href="https://github.com/SrBaliardo/metroid-burger.git/tree/main/jhabburger-interface">Frontend</a>
+- <a href="https://github.com/SrBaliardo/metroid-burger/tree/main/jhabburger-api">Backend</a>
+- <a href="https://github.com/SrBaliardo/metroid-burger/tree/main/jhabburger-interface">Frontend</a>
 
 <br>
 
